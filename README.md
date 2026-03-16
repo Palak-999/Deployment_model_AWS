@@ -23,13 +23,13 @@ It integrates CI/CD workflows, environment configuration, and cloud deployment t
 
 ## 🔑 Concepts Explained
 
-##🔹 Model Deployment
+## 🔹 Model Deployment
 Deployment is the process of making a trained ML model available for use in production. This project shows how to:
 - Package the model  
 - Configure environment  
 - Deploy to AWS for real-world usage  
 
-##🔹 CI/CD Integration
+## 🔹 CI/CD Integration
 The `.github/workflows` folder contains automation scripts that:
 - Install dependencies  
 - Run tests  
