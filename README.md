@@ -1,4 +1,4 @@
-☁️ Deployment Model on AWS
+## ☁️ Deployment Model on AWS
 
 `https://img.shields.io/badge/build-passing-brightgreen`  
 `https://img.shields.io/badge/python-3.10-blue`  
@@ -6,13 +6,13 @@
 `https://img.shields.io/badge/license-MIT-yellow`
 
 
-📌 Project Overview
+## 📌 Project Overview
 This project demonstrates the **deployment of a machine learning model on AWS** using modern DevOps practices.  
 It integrates CI/CD workflows, environment configuration, and cloud deployment to ensure reliable and scalable delivery of ML applications.
 
 
 
-✨ Key Features
+## ✨ Key Features
 - 🚀 Automated CI/CD pipeline using **GitHub Actions**  
 - ☁️ Deployment of ML model on **AWS**  
 - 📦 Dependency management with `requirements.txt` and `pyproject.toml`  
@@ -21,15 +21,15 @@ It integrates CI/CD workflows, environment configuration, and cloud deployment t
 
 
 
-🔑 Concepts Explained
+## 🔑 Concepts Explained
 
-🔹 Model Deployment
+##🔹 Model Deployment
 Deployment is the process of making a trained ML model available for use in production. This project shows how to:
 - Package the model  
 - Configure environment  
 - Deploy to AWS for real-world usage  
 
-🔹 CI/CD Integration
+##🔹 CI/CD Integration
 The `.github/workflows` folder contains automation scripts that:
 - Install dependencies  
 - Run tests  
@@ -38,7 +38,7 @@ The `.github/workflows` folder contains automation scripts that:
 
 
 
-📂 Project Structure
+## 📂 Project Structure
 ```plaintext
 Deployment_model_AWS
 │
@@ -58,7 +58,7 @@ Deployment_model_AWS
 
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 | Technology        | Purpose                                |
 |-------------------|----------------------------------------|
@@ -70,7 +70,7 @@ Deployment_model_AWS
 
 
 
-▶️ How to Run Locally
+## ▶️ How to Run Locally
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Palak-999/Deployment_model_AWS.git
@@ -87,7 +87,7 @@ python main.py
 
 
 
-🌟 Benefits
+## 🌟 Benefits
 - Hands-on experience with **AWS deployment**  
 - Practical knowledge of **CI/CD pipelines**  
 - Understanding of **Python project structuring**  
@@ -101,7 +101,7 @@ Relevant for roles like:
 
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 - 🧪 Add automated unit testing for ML models  
 - 🐳 Containerization using Docker for portability  
 - ☁️ Deploy to AWS services like **SageMaker** or **Lambda**  
